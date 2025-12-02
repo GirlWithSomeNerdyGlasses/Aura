@@ -1,4 +1,4 @@
-# Hi 👋, I'm Asya
+# Hello, I'm Asya/Aurora
 
 ### I'm an 17 year old programmer
 
