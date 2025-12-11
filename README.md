@@ -27,7 +27,8 @@
 <img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
 </p>
 
-
+<div align="center">
+  
 - Fun fact: I got the thought of learning to program at a random park in June 2024, so that's how I started.
 - Projects: All repo are private
 
