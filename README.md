@@ -19,6 +19,7 @@
 <img src="https://www.yanderecore.cat/file/javascript.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/html.png" height="40px"/>
 <img src="https://www.yanderecore.cat/file/css.png" height="40px"/>
+<img src="https://www.yanderecore.cat/file/Lua.png" height="40px"/>
 </p>
 
 <h3 align="center">Frameworks</h3>
