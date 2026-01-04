@@ -28,6 +28,10 @@
 <img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
 </p>
 
+<h3 align="center">Other Things</h3>
+<p align="Center" style="flex">
+<img src="https://www.yanderecore.cat/file/git.png" height="40px">
+</p>
 <div align="center">
   
 - Where I started: It was an afternoon in June 2024 I was at a random park when I got the idea of learning how to code so I decided to look up Python courses on YT since I didn’t know where to start
